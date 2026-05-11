@@ -31,12 +31,12 @@ Bienvenido a **Well Trajectory Simulator**, una herramienta diseñada para ayuda
 Este proyecto ofrece:
 
 Variables y tipos de datos
-• Funciones
-• f-strings
-• Programación Orientada a Objetos (POO)
-• NumPy y Pandas
-• Visualización con Matplotlib y Seaborn
-• Estadística descriptiva
+- Funciones
+- f-strings
+- Programación Orientada a Objetos (POO)
+- NumPy y Pandas
+- Visualización con Matplotlib y Seaborn
+- Estadística descriptiva
   
 ---
 
