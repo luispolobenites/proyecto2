@@ -20,7 +20,7 @@ Puedes acceder a la aplicación en el siguiente enlace:
 Bienvenido a **TelcoCustomerChurn**, una herramienta que nos muestra gráficos estadisticos, numéricos y categóricos. Aplicación de clases, gráficos de barras, histogramas.
 
 <div align="center">
-    <img src="images/pantalla_principal.png" alt="Plataforma 1 GIF" style="width:100%; margin-right:5%;">
+    <img src="images/pantalla_principal.png" alt="Plataforma 1 GIF" style="width:80%; margin-right:5%;">
     <img src="Plataforma2.gif" alt="Plataforma 2 GIF" style="width:100%;">
 </div>
 
@@ -62,17 +62,27 @@ pip install -r requirements.txt
 
 ## 📷 Captura de pantalla
 
-![Captura](Captura.jpeg)
+<div align="center">
+    <img src="images/opciones.png" alt="Menu de opciones" style="width:20%; margin-right:5%;">
+    <img src="images/opcion2.png" alt="Menu de opciones" style="width:50%; margin-right:5%;">
+    <img src="images/opcion2_1.png" alt="Menu de opciones" style="width:50%; margin-right:5%;">
+    <img src="images/opcion2_2.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_3.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_4.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_5.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_6.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_7.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_8.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_9.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_10.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_11.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+    <img src="images/opcion2_12.png" alt="Menu de opciones" style="width:40%; margin-right:5%;">
+
+</div>
 
 ---
 
 ## ⚙️ Uso
-
-### Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu_usuario/WellTrajectorySimulator.git
-```
 
 ### Ejecutar la aplicación:
 
@@ -97,18 +107,28 @@ Si deseas contribuir a este proyecto:
 ## 🗂️ Estructura de Archivos
 
 ```bash
-WellTrajectorySimulator/
+TelcoCustomerChurn/
 │
 ├── app.py               # Control principal de la aplicación.
-├── pozo_tipo_j.py        # Cálculos y visualización de pozos tipo J.
-├── pozo_tipo_s.py        # Cálculos y visualización de pozos tipo S.
-├── pozo_vertical.py      # Cálculos y visualización de pozos verticales.
-├── Diagramas y gráficos/
-│   ├── Diagrama pozo tipo J.png
-│   ├── Logo.png
-│   ├── Plataforma1.gif
-│   ├── Plataforma2.gif
-│   ├── Plataforma3.png
+├── libreria_clase.py        # Libreria de clases.
+├── logo7.png
+├── images/
+│   ├── pantalla_principal.png
+│   ├── opciones.png
+│   ├── opcion2.png
+│   ├── opcion2_1.png
+│   ├── opcion2_2.png
+│   ├── opcion2_3.png
+│   ├── opcion2_4.png
+│   ├── opcion2_5.png
+│   ├── opcion2_6.png
+│   ├── opcion2_7.png
+│   ├── opcion2_8.png
+│   ├── opcion2_9.png
+│   ├── opcion2_10.png
+│   ├── opcion2_11.png
+│   ├── opcion2_12.png
+├── TelcoCustomerChurn.csv      # Archivo de carga.
 ├── requirements.txt      # Archivo con las dependencias del proyecto.
 ├── README.md             # Archivo con la descripción del proyecto.
 ```
