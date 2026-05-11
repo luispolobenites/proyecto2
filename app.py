@@ -45,7 +45,7 @@ opcion = st.sidebar.selectbox(
 
 # Mostrar contenido según la opción elegida
 if opcion == "🏠 1: Home":
-    st.title("PROYECTO 1-Caso de Estudio N°2")
+    st.title("PROYECTO 2-Caso de Estudio N°2")
     st.write("**Breve descripción del objetivo del análisis**: Aplicar de manera integrada los conceptos vistos a lo largo del curso, desarrollando una herramienta funcional, clara y bien estructurada, similar a un producto analítico real.")
     st.write("**Datos del autor**: ")    
     st.markdown(""" - **Nombre completo** : Luis Anderson Polo Benites""")
