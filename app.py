@@ -37,6 +37,7 @@ def calcular_cac(gasto_marketing: float, gasto_ventas: float, nuevos_clientes: i
 # =========================================================
 
 # Menú en la barra lateral
+st.sidebar.image("logo7.png",width=150)
 st.sidebar.title("Opciones")
 opcion = st.sidebar.selectbox(
     "Selecciona una opción:",
