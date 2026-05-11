@@ -30,10 +30,13 @@ Bienvenido a **Well Trajectory Simulator**, una herramienta diseñada para ayuda
 
 Este proyecto ofrece:
 
-- **Cálculo y visualización de trayectorias de pozos verticales**.
-- **Gráficos 3D interactivos** utilizando Plotly para mejorar la comprensión visual.
-- **Interfaz intuitiva y sencilla**, desarrollada en Python y desplegada con Streamlit.
-- **Posibilidad de ajustar parámetros clave** como la longitud de cada sección del pozo.
+Variables y tipos de datos
+• Funciones
+• f-strings
+• Programación Orientada a Objetos (POO)
+• NumPy y Pandas
+• Visualización con Matplotlib y Seaborn
+• Estadística descriptiva
   
 ---
 
@@ -41,10 +44,14 @@ Este proyecto ofrece:
 
 Para ejecutar la aplicación necesitas tener instalados los siguientes paquetes:
 
-- Python 3.8 o superior
-- Plotly
-- Pandas
-- Streamlit
+- streamlit
+- pandas>=2.1.4
+- numpy
+- openpyxl
+- plotly
+- matplotlib
+- seaborn
+
 
 Puedes instalar todos los requisitos usando el archivo `requirements.txt`:
 
